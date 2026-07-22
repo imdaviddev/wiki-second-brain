@@ -1,0 +1,30 @@
+= Linux
+
+Documentación sobre Linux, administración y herramientas.
+
+== Sistema
+
+* Filesystem
+* Permissions
+* Users
+* Processes
+
+== Networking
+
+* ip
+* netstat
+* ss
+* tcpdump
+
+== Shell
+
+* Bash
+* Sed
+* Awk
+* Grep
+
+== Servidores
+
+* Nginx
+* Apache
+* Systemd

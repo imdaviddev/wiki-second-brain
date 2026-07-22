@@ -1,0 +1,28 @@
+= Projects
+
+Este espacio contiene conocimiento aplicado.
+
+No son apuntes teóricos.
+
+Son implementaciones reales, problemas encontrados y decisiones tomadas.
+
+== Mercado Libre
+
+* Migraciones
+* Vulnerabilidades
+* Monitoreo
+* Versiones
+* Incidentes
+
+== Pomelo
+
+* Entrevistas
+* Arquitectura
+* Aprendizajes
+
+== Proyectos Personales
+
+* Knowledge Base
+* APIs
+* POCs
+* IA

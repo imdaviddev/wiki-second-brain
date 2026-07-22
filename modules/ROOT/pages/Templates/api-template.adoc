@@ -1,0 +1,17 @@
+= <API>
+
+== Objetivo
+
+== Endpoints
+
+== Request
+
+== Response
+
+== Errores
+
+== Seguridad
+
+== Ejemplos
+
+== Diagramas

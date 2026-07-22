@@ -1,0 +1,25 @@
+= <Componente>
+
+== Problema que resuelve
+
+== Solución
+
+== Arquitectura
+
+== Flujo
+
+== Ventajas
+
+== Desventajas
+
+== Trade-offs
+
+== Escalabilidad
+
+== Disponibilidad
+
+== Ejemplo real
+
+== Diagrama
+
+== Tecnologías relacionadas

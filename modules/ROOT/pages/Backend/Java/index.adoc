@@ -1,0 +1,33 @@
+= Java
+
+== Fundamentos
+
+* JVM
+* Bytecode
+* JDK vs JRE
+
+== Concurrencia
+
+* Threads
+* Executors
+* Virtual Threads
+* CompletableFuture
+
+== Memoria
+
+* Heap
+* Stack
+* Garbage Collector
+* ZGC
+
+== Frameworks
+
+* Spring
+* Quarkus
+* Javalin
+
+== Testing
+
+* JUnit
+* Mockito
+* Testcontainers

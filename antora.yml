@@ -1,0 +1,5 @@
+name: wiki-second-brain
+version: ~
+title: Wiki
+nav:
+  - modules/ROOT/nav.adoc

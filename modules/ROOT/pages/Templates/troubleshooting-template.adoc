@@ -1,0 +1,15 @@
+= <Problema>
+
+== Contexto
+
+== Síntomas
+
+== Causa
+
+== Investigación
+
+== Solución
+
+== Validación
+
+== Lecciones aprendidas

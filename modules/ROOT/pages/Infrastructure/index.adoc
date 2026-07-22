@@ -1,0 +1,21 @@
+= Infrastructure
+
+Esta sección contiene todo lo relacionado con infraestructura y despliegue.
+
+== Cloud
+
+* xref:aws/index.adoc[AWS]
+* xref:gcp/index.adoc[GCP]
+
+== Contenedores
+
+* xref:docker/index.adoc[Docker]
+* xref:kubernetes/index.adoc[Kubernetes]
+
+== Infra as Code
+
+* xref:terraform/index.adoc[Terraform]
+
+== Redes
+
+* xref:networking/index.adoc[Networking]

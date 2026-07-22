@@ -1,0 +1,23 @@
+= Backend
+
+Bienvenido a la sección de Backend.
+
+Aquí documento conceptos relacionados con el desarrollo de servicios, APIs y arquitectura backend.
+
+== Lenguajes
+
+* xref:java/index.adoc[Java]
+* xref:golang/index.adoc[Golang]
+
+== Arquitectura
+
+* xref:system-design/index.adoc[System Design]
+* xref:apis/index.adoc[APIs]
+* xref:messaging/index.adoc[Messaging]
+* xref:databases/index.adoc[Databases]
+
+== Objetivos
+
+* Comprender cómo diseñar sistemas escalables.
+* Escribir código mantenible.
+* Entender trade-offs arquitectónicos.

@@ -1,0 +1,24 @@
+= Security
+
+Conocimientos relacionados con seguridad informática.
+
+== Web
+
+* OAuth2
+* JWT
+* OpenID Connect
+* CORS
+* CSRF
+
+== Infraestructura
+
+* TLS
+* HTTPS
+* Certificados
+* VPN
+
+== Aplicaciones
+
+* OWASP Top 10
+* SQL Injection
+* XSS

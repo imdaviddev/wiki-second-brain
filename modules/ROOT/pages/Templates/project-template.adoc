@@ -1,0 +1,15 @@
+= <Proyecto>
+
+== Objetivo
+
+== Arquitectura
+
+== Tecnologías
+
+== Decisiones
+
+== Problemas encontrados
+
+== Soluciones
+
+== Próximos pasos

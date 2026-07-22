@@ -1,0 +1,23 @@
+= <Título>
+
+== 📖 ¿Qué es?
+
+== 🎯 ¿Para qué sirve?
+
+== ⚙️ ¿Cómo funciona?
+
+== 👍 Ventajas
+
+== 👎 Desventajas
+
+== ⚖️ Trade-offs
+
+== 🏢 Casos de uso
+
+== 💻 Ejemplo
+
+== 📈 Diagrama
+
+== 🔗 Conceptos relacionados
+
+== 📚 Referencias

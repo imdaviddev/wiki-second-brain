@@ -1,0 +1,19 @@
+* xref:index.adoc[Home]
+
+* Backend
+** xref:Backend/index.adoc[Backend]
+
+* Infrastructure
+** xref:Infrastructure/index.adoc[Infrastructure]
+
+* AI
+** xref:AI/index.adoc[AI]
+
+* Linux
+** xref:Linux/index.adoc[Linux]
+
+* Security
+** xref:Security/index.adoc[Security]
+
+* Projects
+** xref:Projects/index.adoc[Projects]

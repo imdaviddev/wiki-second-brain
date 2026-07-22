@@ -1,0 +1,20 @@
+= Artificial Intelligence
+
+Esta sección recopila herramientas y conceptos relacionados con IA.
+
+== Modelos
+
+* xref:chatgpt/index.adoc[ChatGPT]
+* xref:claude/index.adoc[Claude]
+* xref:gemini/index.adoc[Gemini]
+
+== Desarrollo
+
+* xref:agents/index.adoc[AI Agents]
+* xref:mcp/index.adoc[MCP]
+* xref:rag/index.adoc[RAG]
+* xref:prompt-engineering/index.adoc[Prompt Engineering]
+
+== Automatización
+
+* xref:automations/index.adoc[Automatizaciones]

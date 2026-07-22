@@ -1,0 +1,20 @@
+site:
+  title: Wiki Second Brain
+  start_page: wiki-second-brain::index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+
+asciidoc:
+  extensions:
+    - asciidoctor-kroki
+  attributes:
+    kroki-server-url: https://kroki.io
+    kroki-fetch-diagram: true
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true

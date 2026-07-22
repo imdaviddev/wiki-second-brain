@@ -1,0 +1,17 @@
+= <Base de Datos>
+
+== Descripción
+
+== Modelo de datos
+
+== Índices
+
+== Consultas importantes
+
+== Optimización
+
+== Escalabilidad
+
+== Backups
+
+== Problemas comunes

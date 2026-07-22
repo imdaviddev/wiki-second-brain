@@ -1,0 +1,29 @@
+= AWS
+
+== Compute
+
+* EC2
+* ECS
+* Lambda
+
+== Storage
+
+* S3
+* EBS
+
+== Networking
+
+* VPC
+* Route53
+* Load Balancer
+
+== Security
+
+* IAM
+* Secrets Manager
+* KMS
+
+== Observabilidad
+
+* CloudWatch
+* X-Ray

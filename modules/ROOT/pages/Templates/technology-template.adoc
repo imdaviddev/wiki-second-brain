@@ -1,0 +1,21 @@
+= <Tecnología>
+
+== Descripción
+
+== Arquitectura
+
+== Componentes principales
+
+== Configuración
+
+== Casos de uso
+
+== Buenas prácticas
+
+== Errores comunes
+
+== Ejemplos
+
+== Diagramas
+
+== Referencias
