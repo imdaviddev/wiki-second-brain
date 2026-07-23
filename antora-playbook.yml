@@ -5,7 +5,7 @@ site:
 content:
   sources:
     - url: .
-      branches: HEAD
+      branches: develop
 
 asciidoc:
   extensions:
